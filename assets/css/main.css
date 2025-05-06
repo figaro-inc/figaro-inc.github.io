@@ -1933,22 +1933,17 @@ a.read-more:hover {
 }
 
 .page-content
+
 .pagination {
   background-color: #00000000;
   isolation: isolate;
-  padding: 1rem;
 }
-.tag-master
-.tag-cloud
-.blog-tags {
-  background-color: var(--background2);
-  isolation: isolate;
-  padding: 1rem;
-}
+.tag-master,
+.tag-cloud,
+.blog-tags,
 .page_meta,
 .toc,
 .github-button,
-.sidebar
 .about-container {
   background-color: var(--background2);
   isolation: isolate;
