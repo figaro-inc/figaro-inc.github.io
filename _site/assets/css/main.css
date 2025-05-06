@@ -3,10 +3,10 @@
 /* Main Color palette and fonts */
 
 html {
-  --accent:       #00ffea;    /* accent     */
+  --accent:       #ffbf00;    /* accent     */
   --accent-dark:  #c27e00;    /* accent 2   */
   --main:         #00519E;    /* main color */
-  --main-dim:     #27415b;    /* dimmed version of main color */
+  --main-dim:     #30557a;    /* dimmed version of main color */
   --text:         #252d32;
   --grey1:        #473608;
   --grey2:        #c28f17;
@@ -38,7 +38,6 @@ html[data-theme="dark"]  {
   --grey4:        #636564;
   --grey5:        #3B3D40;
   --background:   #2B323B;
-  --background2:  #ffdc91;
   --shadow:       rgba(0,0,0,.3);
   --github:       #000;
 }
