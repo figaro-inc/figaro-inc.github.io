@@ -31,12 +31,16 @@ layout: default
         {% include github-button.html %}
         {{page.content | markdownify}}
         {% include sidebar.html context="post" class="inline" id="post-end" %}
+        
+        {%- comment -%}
         <div class="separator"></div>
         {% include author-box.html %}
         {% include recent-post.html %}
         {% include newsletter.html %}
         {% include comments.html %}
-      </div>
+        </div>
+        {%- endcomment -%}
+
     </div> <!-- End Wrapper -->
   </article>
   {% include search.html %}
