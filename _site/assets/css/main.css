@@ -4,19 +4,18 @@
 
 html {
   --accent:       #ffbf00;    /* accent     */
-  --accent-dark:  #875c0c;    /* accent 2   */
+  --accent-dark:  #c27e00;    /* accent 2   */
   --main:         #00519E;    /* main color */
-  --main-dim:     #1e344efc;    /* dimmed version of main color */
-  --text:         #40372a;
+  --main-dim:     #00529e7c;    /* dimmed version of main color */
+  --text:         #252d32;
   --grey1:        #473608;
-  --grey2:        #cc8f00;
+  --grey2:        #c28f17;
   --grey3:        #ffb300;
   --grey4:        #fcc737;
   --grey5:        #ffd98c;
   --background:   #ffefc5;
-  --backgroun2:   #ffefc5;
   --shadow:       rgba(68, 44, 4, 0.428);
-  --github:       #ffc400;
+  --github:       #ff0000;
   --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */
   --font2: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* headers and titles   */
   --font1-light:      400;
