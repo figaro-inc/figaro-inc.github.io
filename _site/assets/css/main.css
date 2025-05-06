@@ -1934,7 +1934,7 @@ a.read-more:hover {
 
 .page-content,
 .pagination {
-  background-color: var(--grey5);
+  background-color: #00000000;
   isolation: isolate;
   padding: 1rem;
 }
