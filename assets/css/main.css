@@ -1933,15 +1933,27 @@ a.read-more:hover {
 }
 
 .page-content,
-.pagination,
+.pagination {
+  background-color: var(--grey5);
+  isolation: isolate;
+  padding: 1rem;
+}
 .tag-master,
 .tag-cloud,
-.blog-tags,
+.blog-tags {
+  background-color: var(--background2);
+  isolation: isolate;
+  padding: 1rem;
+}
 .page_meta,
 .toc,
 .github-button,
 .sidebar,
-.about-container,
+.about-container {
+  background-color: var(--background2);
+  isolation: isolate;
+  padding: 1rem;
+}
 .pnf-image,
 .post-card-box {
   -webkit-animation-delay: 0.75s;
