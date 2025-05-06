@@ -26,9 +26,7 @@
       
       "./ML-Library-from-scratch.html",
       
-      "./conways-game-of-life.html",
-      
-      "./single-neuron-perceptron.html"
+      "./conways-game-of-life.html"
       
     ]
   } ,
@@ -96,9 +94,7 @@
       
       "./neural-network-optimization-methods.html",
       
-      "./ML-Library-from-scratch.html",
-      
-      "./single-neuron-perceptron.html"
+      "./ML-Library-from-scratch.html"
       
     ]
   } ,
@@ -112,9 +108,7 @@
       
       "./back-to-basics.html",
       
-      "./ML-Library-from-scratch.html",
-      
-      "./single-neuron-perceptron.html"
+      "./ML-Library-from-scratch.html"
       
     ]
   } ,
