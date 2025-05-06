@@ -110,7 +110,7 @@
     <url>
       <loc>http://localhost:4002/404.html</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -125,7 +125,7 @@
     <url>
       <loc>http://localhost:4002/about.html</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -140,7 +140,7 @@
     <url>
       <loc>http://localhost:4002/all-posts.json</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -155,7 +155,7 @@
     <url>
       <loc>http://localhost:4002/archive.html</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -170,7 +170,7 @@
     <url>
       <loc>http://localhost:4002/</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -185,7 +185,7 @@
     <url>
       <loc>http://localhost:4002/ipfs-404.html</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -200,7 +200,7 @@
     <url>
       <loc>http://localhost:4002/posts-by-tag.json</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -215,7 +215,7 @@
     <url>
       <loc>http://localhost:4002/search.json</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -232,7 +232,7 @@
     <url>
       <loc>http://localhost:4002/tag.html</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -247,7 +247,22 @@
     <url>
       <loc>http://localhost:4002/tags.html</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4002/test.html</loc>
+      
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -262,7 +277,7 @@
     <url>
       <loc>http://localhost:4002/page2/</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -277,7 +292,7 @@
     <url>
       <loc>http://localhost:4002/feed.xml</loc>
       
-        <lastmod>2025-05-06T05:26:18-05:00</lastmod>
+        <lastmod>2025-05-06T05:34:56-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
