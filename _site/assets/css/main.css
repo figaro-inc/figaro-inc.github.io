@@ -10,7 +10,7 @@ html {
   --text:         #252d32;
   --grey1:        #473608;
   --grey2:        #c28f17;
-  --grey3:        #ffb300;
+  --grey3:        #a47300;
   --grey4:        #fcc737;
   --grey5:        #ffd98c;
   --background:   #ffefc5;
@@ -956,7 +956,7 @@ svg.menu-icon-house {
 }
 .copyright {
   text-align: center;
-  color: var(--grey3);
+  color: var(--grey4);
   font-size: 0.6em;
   opacity: 0.75;
 }
