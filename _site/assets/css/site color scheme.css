@@ -3,7 +3,7 @@
     --accent:       #ffbf00;    /* accent     */
     --accent-dark:  #c27e00;    /* accent 2   */
     --main:         #00519E;    /* main color */
-    --main-dim:     #369aff;    /* dimmed version of main color */
+    --main-dim:     #ff0000;    /* dimmed version of main color */
     --text:         #252d32;
     --grey1:        #473608;
     --grey2:        #c28f17;
@@ -11,7 +11,6 @@
     --grey4:        #fcc737;
     --grey5:        #ffd98c;
     --background:   #ffefc5;
-    --background2:  #ff0000;
     --shadow:       rgba(68, 44, 4, 0.428);
 }
 /*
