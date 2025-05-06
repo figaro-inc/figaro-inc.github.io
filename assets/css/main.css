@@ -6,7 +6,7 @@ html {
   --accent:       #ffbf00;    /* accent     */
   --accent-dark:  #c27e00;    /* accent 2   */
   --main:         #00519E;    /* main color */
-  --main-dim:     #00529e7c;    /* dimmed version of main color */
+  --main-dim:     #00529e;    /* dimmed version of main color */
   --text:         #252d32;
   --grey1:        #473608;
   --grey2:        #c28f17;
@@ -951,7 +951,7 @@ svg.menu-icon-house {
   text-align: center;
   color: var(--grey3);
   font-size: 0.6em;
-  opacity: 1;
+  opacity: 0.75;
 }
 .footer-nav {
   display: flex;
