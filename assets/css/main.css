@@ -1932,14 +1932,14 @@ a.read-more:hover {
           animation-delay: 0.5s;
 }
 
-.page-content,
+.page-content
 .pagination {
   background-color: #00000000;
   isolation: isolate;
   padding: 1rem;
 }
-.tag-master,
-.tag-cloud,
+.tag-master
+.tag-cloud
 .blog-tags {
   background-color: var(--background2);
   isolation: isolate;
@@ -1948,7 +1948,7 @@ a.read-more:hover {
 .page_meta,
 .toc,
 .github-button,
-.sidebar,
+.sidebar
 .about-container {
   background-color: var(--background2);
   isolation: isolate;
