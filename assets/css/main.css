@@ -3,7 +3,7 @@
 /* Main Color palette and fonts */
 
 html {
-  --accent:       #ffbf00;    /* accent     */
+  --accent:       #00ffea;    /* accent     */
   --accent-dark:  #c27e00;    /* accent 2   */
   --main:         #00519E;    /* main color */
   --main-dim:     #27415b;    /* dimmed version of main color */
@@ -14,6 +14,7 @@ html {
   --grey4:        #fcc737;
   --grey5:        #ffd98c;
   --background:   #ffefc5;
+  --background2:  #ffdc91;
   --shadow:       rgba(68, 44, 4, 0.428);
   --github:       #ff0000;
   --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */
@@ -38,6 +39,7 @@ html[data-theme="dark"]  {
   --grey4:        #636564;
   --grey5:        #3B3D40;
   --background:   #2B323B;
+  --background2:  #ffdc91;
   --shadow:       rgba(0,0,0,.3);
   --github:       #000;
 }
